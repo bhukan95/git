@@ -1,0 +1,5 @@
+git init = for initialize
+git status = give the status of file 
+git add somefile.txt = for track the file to git 
+git rm --cached main.txt = for untrack the file 
+
